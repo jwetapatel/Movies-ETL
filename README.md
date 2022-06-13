@@ -32,6 +32,23 @@ Kaggle Ratings data, 2602489 rows by 4 columns
 
 Wikipedia Movies transformed, 23 columns
 
+![d2_1 wiki_movie](https://user-images.githubusercontent.com/96400887/173412008-82e41938-80c1-4d87-865b-8a2a1842430f.png)
+
+Wikipedia Movies, making the column names more succinct and uniform, 7033 rows of data.
+
+![d2_2 wiki movie_columns](https://user-images.githubusercontent.com/96400887/173412218-0104fe4a-5fb7-415d-83d5-40781c5e7046.png)
+
+## Deliverable 3: Extract and Transform the Kaggle data
+
+![d3_1 wiki_movie_ratings](https://user-images.githubusercontent.com/96400887/173412305-2d5b74a8-d37f-49ac-a09f-36ddaffef59c.png)
+
+![d3_2 movie_df](https://user-images.githubusercontent.com/96400887/173412333-7241f690-0a57-4fd8-a187-43195c45cf21.png)
+
+
+
+
+
+
 
 
 
