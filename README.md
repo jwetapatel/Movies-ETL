@@ -40,7 +40,11 @@ Wikipedia Movies, making the column names more succinct and uniform, 7033 rows o
 
 ## Deliverable 3: Extract and Transform the Kaggle data
 
+movies_with_ratings_df DataFrame 41 columns
+
 ![d3_1 wiki_movie_ratings](https://user-images.githubusercontent.com/96400887/173412305-2d5b74a8-d37f-49ac-a09f-36ddaffef59c.png)
+
+Movie dataFrame 31 columns
 
 ![d3_2 movie_df](https://user-images.githubusercontent.com/96400887/173412333-7241f690-0a57-4fd8-a187-43195c45cf21.png)
 
