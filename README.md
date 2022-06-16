@@ -48,7 +48,30 @@ Movie dataFrame 31 columns
 
 ![d3_2 movie_df](https://user-images.githubusercontent.com/96400887/173412333-7241f690-0a57-4fd8-a187-43195c45cf21.png)
 
+
 ## Deliverable 4: Create the Movie Database
+
+Creating the Movie Database
+
+![Deliverable 4](https://user-images.githubusercontent.com/96400887/174121149-9e73700e-bfd3-46ad-a530-585764dcf7c4.png)
+
+Verifying the data in PgAdmin
+
+Movies Query
+
+![movies_query](https://user-images.githubusercontent.com/96400887/174121368-bd4a7ee0-0823-4921-b0dd-b10cabb46d94.png)
+
+Ratings Query
+
+![ratings_query](https://user-images.githubusercontent.com/96400887/174121442-b7dc2e33-90d1-4423-b7da-f65a99e38ec5.png)
+
+
+# Summary
+
+The ETL function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings csv files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis.
+
+
+
 
 
 
